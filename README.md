@@ -1,27 +1,18 @@
 # Readme JWD 1
 
-#Aplikasi Simbarpruk
-SIMBARBUK adalah Aplikasi sistem manajemen Barang Bukti yang dikembangkan untuk mengelola barang bukti
-dari mana kejadian,fungsi utama SIMBARBUK yang akan diberikan kepada pengguna serta karakteristik pengguna  yang meliputi pembagian kelompok pengguna seperti pekerjaan kelompok pengguna seperti pekerjaan dan hak ases kedalam aplikasi.
-
-# Features
-
-- Manajemen User Pengguna
-- Manajemen Lokasi/ Tempat Penyimpanan
-- Status Masa Abis Penitipan
-- Pencarian Barang Bukti
-- Laporan - Laporan
+#Pelatihan JWD
+Pelatihan JWD adalah pelatihan junior web dev yang di selenggarakan oleh BPPTIK Kominfo
 
 # Requirement
 
 - Xampp <= 5.1
+- VScode
 - php 5
 
-## Teknologi
+## Yang diPelajari dan dilatih
 
-Dalam pembuatan aplikasi ini meliputi:
+Dalam Pelatihan JWD terdapat beberapa Pelatihan dan hasil latihan :
 
-- Bootstrap
    jwd
  ┣ css
  ┣ gambar

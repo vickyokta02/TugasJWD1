@@ -7,7 +7,7 @@ Pelatihan JWD adalah pelatihan junior web dev yang di selenggarakan oleh BPPTIK 
 
 - Xampp <= 5.1
 - VScode
-- php 5
+- Bahasa Pemograman HTML,PHP,CSS
 
 ## Yang diPelajari dan dilatih
 

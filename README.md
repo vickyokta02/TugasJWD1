@@ -13,13 +13,18 @@ Pelatihan JWD adalah pelatihan junior web dev yang di selenggarakan oleh BPPTIK 
 
 Dalam Pelatihan JWD terdapat beberapa Pelatihan dan hasil latihan :
 
-   jwd
- ┣ css
- ┣ gambar
- ┃ ┗ TKJ4.jpg
- ┣ library
- ┣ belajar.php
- ┣ Login.php
- ┣ Tugas2_VickyOktadiyanto1.php
- ┗ Tugas3_VickyOktadiyanto.php
-
+ 📦jwd
+ ┣ 📂css
+ ┃ ┗ 📜style.css
+ ┣ 📂gambar
+ ┃ ┗ 📜TKJ4.jpg
+ ┣ 📂library
+ ┣ 📂style
+ ┣ 📜belajar.php
+ ┣ 📜Login.php
+ ┣ 📜style.css
+ ┣ 📜Tugas2_VickyOktadiyanto1.php
+ ┣ 📜Tugas3_VickyOktadiyanto.php
+ ┣ 📜Tugas4._VickyOktadiyanto.php
+ ┣ 📜Tugas5_VickyOktadiyanto.php
+ ┗ 📜Tugas6_VickyOktadiyanto.php

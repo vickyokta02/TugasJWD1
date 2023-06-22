@@ -28,3 +28,5 @@ Dalam Pelatihan JWD terdapat beberapa Pelatihan dan hasil latihan :
  ┣ 📜Tugas4._VickyOktadiyanto.php
  ┣ 📜Tugas5_VickyOktadiyanto.php
  ┗ 📜Tugas6_VickyOktadiyanto.php
+ ┗ 📜Tugas7_VickyOktadiyanto.php
+ ┗ 📜Tugas8_VickyOktadiyanto.php

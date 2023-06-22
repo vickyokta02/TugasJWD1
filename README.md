@@ -1,19 +1,15 @@
-# Readme JWD 1
+KYY Airlines
+adalah platform pejualan ticket asal dan tujuan sudah disiapkan secara detail dan simple dan mudah digunakan 
 
-#Pelatihan JWD
-Pelatihan JWD adalah pelatihan junior web dev yang di selenggarakan oleh BPPTIK Kominfo
+Requirement
+-Xampp
+-Vscode
+-PHP 
 
-# Requirement
+Features
+- Pembayaran secara langsung
 
-- Xampp <= 5.1
-- VScode
-- Bahasa Pemograman HTML,PHP,CSS
-
-## Yang diPelajari dan dilatih
-
-Dalam Pelatihan JWD terdapat beberapa Pelatihan dan hasil latihan :
-
- 📦jwd
+📦jwd
  ┣ 📂css
  ┃ ┗ 📜style.css
  ┣ 📂gambar

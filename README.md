@@ -1,5 +1,5 @@
 <h1>Kyy Airlines</h1>
-adalah platform pejualan ticket asal dan tujuan sudah disiapkan secara detail dan simple dan mudah digunakan 
+<h4>adalah platform pejualan ticket asal dan tujuan sudah disiapkan secara detail dan simple dan mudah digunakan</h4> 
 
 Requirement
 -Xampp
